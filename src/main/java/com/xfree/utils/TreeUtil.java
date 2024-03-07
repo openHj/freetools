@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
+ * 树形工具类
  * @author hj
  * @date 2024年03月06日 11:16
  */
